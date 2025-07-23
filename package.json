@@ -1,0 +1,24 @@
+{
+  "name": "qr_code_component",
+  "version": "1.0.0",
+  "description": "Frontend Practice #1 (Easy)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-monty/Qr_Code_Component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-monty/Qr_Code_Component/issues"
+  },
+  "homepage": "https://github.com/code-monty/Qr_Code_Component#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "tailwindcss": "^4.1.11"
+  }
+}
